@@ -27,7 +27,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;Aprendendo+front-end+do+zero...;Um+commit+de+cada+vez+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;Aprendendo+front-end;Um+commit+de+cada+vez+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
