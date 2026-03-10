@@ -1,9 +1,6 @@
 <div align="center">
 
-<br/>
-
-# Lucas Vinicios
-### Front-end Developer em formação · Campinas, SP 🇧🇷
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0077B5&height=200&section=header&text=Lucas%20Vinicios&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Front-end%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <br/>
 
@@ -16,19 +13,18 @@
 
 <br/>
 
----
-
-Oi! Sou o Lucas, de Campinas-SP. Estou aprendendo desenvolvimento front-end do zero — construindo projetos pessoais, errando, ajustando e evoluindo no processo.
-
-Ainda estou no começo, mas acredito que consistência bate talento no longo prazo. Cada repositório aqui é parte dessa jornada.
-
----
+```javascript
+const lucas = {
+  location : "Campinas, SP 🇧🇷",
+  focus    : "Front-end Development",
+  learning : ["HTML", "CSS", "JavaScript"],
+  goal     : "Build things people enjoy using"
+};
+```
 
 <br/>
 
-## Stack atual
-
-<div align="left">
+## Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -36,26 +32,10 @@ Ainda estou no começo, mas acredito que consistência bate talento no longo pra
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-</div>
-
 <br/>
-
-## Atualmente
-
-- 🧱 Praticando fundamentos de **HTML e CSS** com projetos do zero
-- ⚡ Aprendendo **JavaScript** para deixar as páginas interativas
-- 📁 Usando o **GitHub** para versionar tudo que faço
-- 📺 Consumindo muito conteúdo de dev e testando na prática
-
-<br/>
-
-
-<br/>
-
----
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=LucasVelloso21&color=0077B5&style=flat-square&label=visitas)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:1a1a2e,100:0d1117&height=100&section=footer&animation=fadeIn" />
 
 </div>
