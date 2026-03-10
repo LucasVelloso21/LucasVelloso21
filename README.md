@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0077B5&height=240&section=header&text=Lucas%20Velloso&fontSize=72&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Front-end%20Developer&descAlignY=62&descAlign=50&descSize=22&animation=fadeIn" width="100%"/>
+<br/>
+
+<img src="./banner.png" width="100%" alt="Lucas Velloso" />
+
+<br/><br/>
+
+**`Front-end Developer`** · Campinas, SP 🇧🇷
 
 <br/>
 
