@@ -27,9 +27,9 @@
 
 ## Olá, mundo! 👾
 
-☕ Turning coffee into code  
-Lucas • Campinas-SP 🇧🇷  
-Aprendendo desenvolvimento Front-end
+☕ Turning coffee into code
+Lucas from Campinas-SP, Brazil
+Learning Front-End Development
 
 <br clear="right"/>
 
