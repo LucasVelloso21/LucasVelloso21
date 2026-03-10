@@ -1,14 +1,6 @@
 <div align="center">
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=9999999&pause=9999999&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=130&lines=█╗++++█╗+██╗+██████╗+█████╗+███████╗;█║++++█║+█║+█╔════╝+█╔══█╗+█╔════╝;█║++++█║+█║+█║+++++███████║+███████╗;█║++++█║+█║+█║+++++█╔══██║+╚════██║;███████╗╚█████╔╝╚██████╗█║++█║+███████║;╚══════╝+╚════╝++╚═════╝╚═╝++╚═╝╚══════╝" alt="LUCAS" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=9999999&pause=9999999&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=130&lines=██╗+++██╗███████╗██╗++++██╗+++++██████╗+███████╗██████╗;██║+++██║██╔════╝██║++++██║++++██╔══█╗+██╔════╝██╔══█╗;██║+++██║█████╗++██║++++██║++++██║++██║+███████╗██║++██║;╚██╗+██╔╝██╔══╝++██║++++██║++++██║++██║+╚════██║██║++██║;+╚████╔╝+███████╗███████╗███████╗╚██████╔╝███████║██████╔╝;++╚═══╝++╚══════╝╚══════╝╚══════╝+╚═════╝+╚══════╝╚═════╝+" alt="VELLOSO" />
-
-<br/>
-
-**`Front-end Developer`** · Campinas, SP 🇧🇷
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0077B5&height=240&section=header&text=Lucas%20Velloso&fontSize=72&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Front-end%20Developer&descAlignY=62&descAlign=50&descSize=22&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -44,6 +36,6 @@ const lucas = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:1a1a2e,100:0d1117&height=100&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
