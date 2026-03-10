@@ -49,12 +49,6 @@ Ainda estou no começo, mas acredito que consistência bate talento no longo pra
 
 <br/>
 
-## Próximos passos
-
-- [ ] Finalizar projetos pessoais em andamento
-- [ ] Aprender **React**
-- [ ] Montar um portfólio online
-- [ ] Conseguir minha primeira oportunidade na área
 
 <br/>
 
