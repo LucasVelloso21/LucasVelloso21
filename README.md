@@ -27,11 +27,9 @@
 
 ## Olá, mundo! 👾
 
-Sou o Lucas, de Campinas-SP, aprendendo desenvolvimento **Front-end** do zero e documentando essa jornada pelo caminho.
-
-☕ Turning coffee into code
-💻 Software Engineering student
-🚀 Always learning something new
+☕ Turning coffee into code  
+Lucas • Campinas-SP 🇧🇷  
+Aprendendo desenvolvimento Front-end
 
 <br clear="right"/>
 
