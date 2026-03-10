@@ -29,11 +29,9 @@
 
 Sou o Lucas, de Campinas-SP, aprendendo desenvolvimento **Front-end** do zero e documentando essa jornada pelo caminho.
 
-- 🌱 Estudando **HTML, CSS e JavaScript** na prática
-- 🔨 Construindo projetos pessoais para fixar o que aprendo
-- 📺 Acompanhando conteúdos e comunidades de dev
-- 🎯 Meta: dominar o front-end e construir interfaces que as pessoas curtam usar
-- ⚡ Acredito que a melhor forma de aprender é colocando a mão no código
+☕ Turning coffee into code
+💻 Software Engineering student
+🚀 Always learning something new
 
 <br clear="right"/>
 
